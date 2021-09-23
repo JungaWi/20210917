@@ -25,6 +25,9 @@ public class MemberExample {
 		for(Member member : members) {
 			member.showInfo();
 		}
+		
+		Student s1 = new Student();
+		s1.name = "hong";
 				
 	}
 

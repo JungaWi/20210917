@@ -1,4 +1,4 @@
-package practice;
+package co.yedam.account;
 
 public class Account {
 	
